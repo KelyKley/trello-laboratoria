@@ -40,14 +40,20 @@
 	background: #4D4DB8;
 	color: white;
 	border: none;
+	text-align: center;
 }
 
 
 /*Sección form*/
 #form {
-		background: #4D4DB8;
+	background: #8C8CD1;
 
 }
 
 
-
+.icon-close:before {
+    content: "\e915";
+}
+.icon-close:before {
+    content: "\e915";
+}
